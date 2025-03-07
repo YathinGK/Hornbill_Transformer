@@ -18,14 +18,14 @@ pip install tensorflow opencv-python numpy pandas pillow
 [https://github.com/YathinGK/Hornbill Transformer.git](https://github.com/YathinGK/Hornbill_Transformer.git)
 
 3.Execution Steps
- i)Run the MetaData_Extraction.ipynb
- ii)Add the path for the Trained model and Directory of the input images
- iii)RUN the program
- iv)Output will be stored in folders based on the date,Type of image (Visible or Thermal) , it contains the output image that as been renamed
+ 1. Run the MetaData_Extraction.ipynb
+ 2. Add the path for the Trained model and Directory of the input images
+ 3. RUN the program
+ 4. Output will be stored in folders based on the date,Type of image (Visible or Thermal) , it contains the output image that as been renamed
 
  4.Hotspot Detection
- i)Run the Hospot Detection.ipynb
- ii)View the hotspot areas highlighted using green boxes using the Hotspot Detection Algorithm
+ 1. Run the Hospot Detection.ipynb
+ 2. View the hotspot areas highlighted using green boxes using the Hotspot Detection Algorithm
 
 Structure :
 ├── 📂 Input_Images/         
