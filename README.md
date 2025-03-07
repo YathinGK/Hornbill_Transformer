@@ -1,7 +1,7 @@
 # AI-Based Metadata Extraction  & Hotspot Detection for Transmission Towers
 
-Details 
-Yathin G Kummar
+Details :
+Yathin G Kummar,
 7019407960
 
 Project Overview
