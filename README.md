@@ -1,5 +1,9 @@
 # AI-Based Metadata Extraction  & Hotspot Detection for Transmission Towers
 
+Details 
+Yathin G Kummar
+7019407960
+
 Project Overview
 
 This project automates the classification, metadata extraction, organization, and hotspot detection of transmission tower images. The system utilizes AI-based image classification to distinguish between Thermal and Visible images, organizes them based on date and geolocation, and detects hotspots in thermal images for anomaly identification. The workflow is fully automated, ensuring seamless image processing without manual intervention.
