@@ -15,7 +15,7 @@ Setup
 pip install tensorflow opencv-python numpy pandas pillow
 
 2.Clone the Repository
-https://github.com/YathinGK/Hornbill Transformer.git
+[https://github.com/YathinGK/Hornbill Transformer.git](https://github.com/YathinGK/Hornbill_Transformer.git)
 
 3.Execution Steps
  i)Run the MetaData_Extraction.ipynb
