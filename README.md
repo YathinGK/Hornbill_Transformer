@@ -1,4 +1,4 @@
-# AI-Based Image Classification & Hotspot Detection for Transmission Towers
+# AI-Based Metadata Extraction  & Hotspot Detection for Transmission Towers
 
 Project Overview
 
